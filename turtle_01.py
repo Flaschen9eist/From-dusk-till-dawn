@@ -2,7 +2,7 @@ import turtle
 
 #turtle.write('Turtle ausprobieren!', font=('Arial', 40, 'normal'))
 
-turtle.width(8)
+turtle.width(15)
 
 turtle.color('blue')
 turtle.circle(100)
